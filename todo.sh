@@ -1,4 +1,6 @@
-#!/bin/sh  -x 
+#!/bin/sh 
+set -e 
+
 OPERATION=$1
 INPUT=$2
 WORKDIR=`pwd`
