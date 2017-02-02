@@ -3,7 +3,9 @@ set -e
 
 OPERATION=$1
 INPUT=$2
-WORKDIR=`pwd`
+
+BASEDIR=$(dirname "$0")
+echo "BASEDIR=$BASEDIR"
 
 if [ "$OPERATION" == "" ]; then
    echo "Missing first parameter"
@@ -33,7 +35,7 @@ echo "PROJECT=$PROJECT"
 echo "MESSAGE=$MESSAGE"
 
 
-source ${WORKDIR}/todo.conf 
+source ${BASEDIR}/todo.conf 
 
 #TODO_WORKING_COPY_PATH=/d/babun-repos/todo-worklog
 #TODO_GIT_COMMIT_COMMAND="git commit -a -m `[TODO] $MESSAGE`"
