@@ -33,7 +33,7 @@ echo "PROJECT=$PROJECT"
 echo "MESSAGE=$MESSAGE"
 
 
-source ./todo.conf 
+source ${WORKDIR}/todo.conf 
 
 #TODO_WORKING_COPY_PATH=/d/babun-repos/todo-worklog
 #TODO_GIT_COMMIT_COMMAND="git commit -a -m `[TODO] $MESSAGE`"
