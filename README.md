@@ -28,7 +28,8 @@
  * shel editors: vim, newovim, nano, emacs
  * atom editor
  * Visual Studio Code
- * IDE - I choose [Code::Blocks](http://list.xmodulo.com/codeblocks.html)
+ * IDE - I think of [Code::Blocks](http://www.codeblocks.org/downloads/binaries) but there are no binaries for Manjaro or Arch Linux. I will tyry to compile it from sources? 
+ * IDE - I am considering also CodeLite, Eclipse and NetBeans
  * markdown as format of documentation and a format of todo list files 
 
 ## What id done? 
