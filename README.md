@@ -28,9 +28,14 @@
  * shel editors: vim, newovim, nano, emacs
  * atom editor
  * Visual Studio Code
- * IDE - I think of [Code::Blocks](http://www.codeblocks.org/downloads/binaries) but there are no binaries for Manjaro or Arch Linux. I will tyry to compile it from sources? 
- * IDE - I am considering also CodeLite, Eclipse and NetBeans
+ * IDE - I think of [Code::Blocks](http://www.codeblocks.org/) and [codelite](https://codelite.org/)
+ * IDE - I am considering also Eclipse and NetBeans
  * markdown as format of documentation and a format of todo list files 
+
+## Documentation 
+
+* [Setup of C/C++ development environment](./docs/setup-of-dev-env.md)
+
 
 ## What id done? 
 * Not much .
@@ -41,4 +46,5 @@
 ## Do not take offense - I want to do it alone. 
 * I will not invite any other contributors to this project.  
 * This is project is for practicing development. :-) 
+
 
