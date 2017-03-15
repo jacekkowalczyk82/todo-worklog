@@ -21,16 +21,22 @@
 
 * I am using / going to use many different tools:
 * Windows shell [babun](http://babun.github.io/)
- * Git for windows 
- * Manjaro Linux
- * make, GCC and CLANG
- * I want to create FreeBSD port of this app
- * shel editors: vim, newovim, nano, emacs
- * atom editor
- * Visual Studio Code
- * IDE - I think of [Code::Blocks](http://www.codeblocks.org/) and [codelite](https://codelite.org/)
- * IDE - I am considering also Eclipse and NetBeans
- * markdown as format of documentation and a format of todo list files 
+* Git for windows 
+* Manjaro Linux
+* make, GCC and CLANG
+* I want to create FreeBSD port of this app
+* I want to be compatible with Arch linux packaging for AUR repositories
+  * https://aur.archlinux.org/
+  * https://wiki.archlinux.org/index.php/Arch_User_Repository
+  * https://wiki.archlinux.org/index.php/Creating_packages
+  * https://wiki.archlinux.org/index.php/Arch_packaging_standards
+  
+* shel editors: vim, newovim, nano, emacs
+* atom editor
+* Visual Studio Code
+* IDE - I think of [Code::Blocks](http://www.codeblocks.org/) and [codelite](https://codelite.org/)
+* IDE - I am considering also Eclipse and NetBeans
+* markdown as format of documentation and a format of todo list files 
 
 ## Documentation 
 
