@@ -33,6 +33,7 @@
   
 * shel editors: vim, newovim, nano, emacs
 * atom editor
+* remarkable editor
 * Visual Studio Code
 * IDE - I think of [Code::Blocks](http://www.codeblocks.org/) and [codelite](https://codelite.org/)
 * IDE - I am considering also Eclipse and NetBeans
